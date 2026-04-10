@@ -6,4 +6,4 @@
 - Focused on clean UI and performance
 - search
 - auto match
-- 📈 Always improving my coding skills 
+  
