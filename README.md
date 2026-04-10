@@ -1,4 +1,4 @@
-# Budget-Tracker
+# QuickSeek
 
  🚀 About Me
 - 🌱 Currently learning Java & Web Development  
